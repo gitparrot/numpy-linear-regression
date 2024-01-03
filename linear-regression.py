@@ -1,4 +1,5 @@
 class LinearRegression():
+    #initialize
     def __init__(self) -> None:
         pass
 
